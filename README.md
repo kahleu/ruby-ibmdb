@@ -1,6 +1,6 @@
 ruby-ibmdb
 ==========
-Rails Adapter/Ruby Driver for IBM Data Servers: {DB2 on Linux/Unix/Windows, DB2 on zOS, DB2 on IBMix, IBM Informix (IDS)}
+Rails Adapter/Ruby Driver for IBM Data Servers: {DB2 on Linux/Unix/Windows, DB2 on zOS, DB2 on IBM i, IBM Informix (IDS)}
 
 Installing the IBM_DB adapter and driver
 ========================================
